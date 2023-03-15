@@ -2,10 +2,10 @@
  
  ### Estudos Js - manipulação de array 
  
- * Conteúdos principais: 
- - [x] Filter 
- - [x] Map 
- - [x] Reduce 
+ ##### Conteúdos principais: 
+ - Filter 
+ - Map 
+ - Reduce 
  
  #### Filter 
  
